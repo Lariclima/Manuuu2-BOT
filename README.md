@@ -1,5 +1,3 @@
-# Manuuu2-BOT
-TEste
 # 🤖 Manu - Secretária Virtual WhatsApp
 
 Secretária virtual inteligente para WhatsApp Business da **Dra. Larissa Carleth**, nutricionista especializada em emagrecimento.
@@ -246,3 +244,4 @@ Para dúvidas ou problemas:
 **Desenvolvido para Dra. Larissa Carleth - Nutricionista**  
 WhatsApp Business: +5528999771140  
 Instagram: @nutrilaricarleth
+
